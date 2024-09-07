@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Automation and Security Projects on Biketopolis</title>
+    <link>//localhost:62798/posts/networking-and-security-projects/</link>
+    <description>Recent content in Network Automation and Security Projects on Biketopolis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Biketopolis</copyright>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:62798/posts/networking-and-security-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Configure AzureAD SAML Authentication for AnyConnect VPN on Meraki</title>
+      <link>//localhost:62798/posts/networking-and-security-projects/configuring_anyconnect_azuread_saml/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/networking-and-security-projects/configuring_anyconnect_azuread_saml/</guid>
+      <description>Configuration steps on AzureAD and Meraki Dashboards # This guide seems redundant, but there are some quirks that are not accounted for in the official Meraki documentation.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:62798/posts/networking-and-security-projects/configuring_anyconnect_azuread_saml/feature.svg" />
+    </item>
+    
+    <item>
+      <title>How to Configure a SOCKS5 Proxy Server in AWS</title>
+      <link>//localhost:62798/posts/networking-and-security-projects/how_to_set_up_socks5_aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/networking-and-security-projects/how_to_set_up_socks5_aws/</guid>
+      <description>How to Set Up an AWS EC2 as a SOCKS5 Proxy # Summary # This guide will walk you through how to configure an Amazon EC2 as a SOCKS5 proxy.</description>
+      
+    </item>
+    
+    <item>
+      <title>How to Configure SAML SSO to Meraki Dashboard Using JumpCloud</title>
+      <link>//localhost:62798/posts/networking-and-security-projects/configure_saml_sso_jumpcloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/networking-and-security-projects/configure_saml_sso_jumpcloud/</guid>
+      <description>Summary # In this guide, I will walk you through how I configured Single Sign-On to my Meraki Dashboard using JumpCloud as the Identity Provider.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

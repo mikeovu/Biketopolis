@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking on Biketopolis</title>
+    <link>//localhost:62798/tags/networking/</link>
+    <description>Recent content in Networking on Biketopolis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Biketopolis</copyright>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:62798/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Python to Convert Meraki MX Firewall Rules into JSON and CSV Files</title>
+      <link>//localhost:62798/posts/networking-and-security-projects/outputting_firewall_rules_to_dashboard/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/networking-and-security-projects/outputting_firewall_rules_to_dashboard/</guid>
+      <description>This tutorial will guide you through the process of using Python to download the Layer 3 and Layer 7 rules from a Meraki MX into a CSV spreadsheet.</description>
+      
+    </item>
+    
+    <item>
+      <title>How to Configure AzureAD SAML Authentication for AnyConnect VPN on Meraki</title>
+      <link>//localhost:62798/posts/networking-and-security-projects/configuring_anyconnect_azuread_saml/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/networking-and-security-projects/configuring_anyconnect_azuread_saml/</guid>
+      <description>Configuration steps on AzureAD and Meraki Dashboards # This guide seems redundant, but there are some quirks that are not accounted for in the official Meraki documentation.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:62798/posts/networking-and-security-projects/configuring_anyconnect_azuread_saml/feature.svg" />
+    </item>
+    
+    <item>
+      <title>How to Configure SAML SSO to Meraki Dashboard Using JumpCloud</title>
+      <link>//localhost:62798/posts/networking-and-security-projects/configure_saml_sso_jumpcloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/networking-and-security-projects/configure_saml_sso_jumpcloud/</guid>
+      <description>Summary # In this guide, I will walk you through how I configured Single Sign-On to my Meraki Dashboard using JumpCloud as the Identity Provider.</description>
+      
+    </item>
+    
+    <item>
+      <title>How to Install an Enterprise Agent on a VM</title>
+      <link>//localhost:62798/posts/thousandeyes_learning/deploy_enterprise_agent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/thousandeyes_learning/deploy_enterprise_agent/</guid>
+      <description>Deploy Enterprise Agent # Objective # Download the Enterprise Agent Software and import it into a Virtualization Environment.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:62798/posts/thousandeyes_learning/deploy_enterprise_agent/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>How to Schedule a Page Load Test in ThousandEyes</title>
+      <link>//localhost:62798/posts/thousandeyes_learning/page-load/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/thousandeyes_learning/page-load/</guid>
+      <description>Scheduling a Page Load Web Test # Pre-Requisites # A ThousandEyes Account</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:62798/posts/thousandeyes_learning/page-load/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Troubleshooting Lab Scenario A</title>
+      <link>//localhost:62798/posts/thousandeyes_learning/troubleshooting-labs/tshoot-scenario-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/thousandeyes_learning/troubleshooting-labs/tshoot-scenario-a/</guid>
+      <description>Summary # ThousandEyes Dashboard - Troubleshooting Scenario A - Exxon Portal</description>
+      
+    </item>
+    
+    <item>
+      <title>Troubleshooting Lab Scenario B</title>
+      <link>//localhost:62798/posts/thousandeyes_learning/troubleshooting-labs/tshoot-scenario-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/thousandeyes_learning/troubleshooting-labs/tshoot-scenario-b/</guid>
+      <description>Summary # Troubleshooting Scenario B - GoToMeeting</description>
+      
+    </item>
+    
+    <item>
+      <title>Troubleshooting Lab Scenario C</title>
+      <link>//localhost:62798/posts/thousandeyes_learning/troubleshooting-labs/tshoot-scenario-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/thousandeyes_learning/troubleshooting-labs/tshoot-scenario-c/</guid>
+      <description>Summary # Troubleshooting Scenario C - IRS</description>
+      
+    </item>
+    
+    <item>
+      <title>Troubleshooting Lab Scenario D</title>
+      <link>//localhost:62798/posts/thousandeyes_learning/troubleshooting-labs/tshoot-scenario-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/thousandeyes_learning/troubleshooting-labs/tshoot-scenario-d/</guid>
+      <description>Summary # Troubleshooting Scenario D</description>
+      
+    </item>
+    
+  </channel>
+</rss>

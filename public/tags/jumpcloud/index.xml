@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JumpCloud on Biketopolis</title>
+    <link>//localhost:62798/tags/jumpcloud/</link>
+    <description>Recent content in JumpCloud on Biketopolis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Biketopolis</copyright>
+    <atom:link href="//localhost:62798/tags/jumpcloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Configure SAML SSO to Meraki Dashboard Using JumpCloud</title>
+      <link>//localhost:62798/posts/networking-and-security-projects/configure_saml_sso_jumpcloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/networking-and-security-projects/configure_saml_sso_jumpcloud/</guid>
+      <description>Summary # In this guide, I will walk you through how I configured Single Sign-On to my Meraki Dashboard using JumpCloud as the Identity Provider.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

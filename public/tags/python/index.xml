@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Biketopolis</title>
+    <link>//localhost:62798/tags/python/</link>
+    <description>Recent content in Python on Biketopolis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Biketopolis</copyright>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:62798/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Automation and Security Projects</title>
+      <link>//localhost:62798/posts/networking-and-security-projects/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/networking-and-security-projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Using Python to Convert Meraki MX Firewall Rules into JSON and CSV Files</title>
+      <link>//localhost:62798/posts/networking-and-security-projects/outputting_firewall_rules_to_dashboard/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/networking-and-security-projects/outputting_firewall_rules_to_dashboard/</guid>
+      <description>This tutorial will guide you through the process of using Python to download the Layer 3 and Layer 7 rules from a Meraki MX into a CSV spreadsheet.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

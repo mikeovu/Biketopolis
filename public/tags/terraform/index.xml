@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terraform on Biketopolis</title>
+    <link>//localhost:62798/tags/terraform/</link>
+    <description>Recent content in Terraform on Biketopolis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Biketopolis</copyright>
+    <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:62798/tags/terraform/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Manage Resources in Terraform State</title>
+      <link>//localhost:62798/posts/learning-terraform/terraform-state/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/learning-terraform/terraform-state/</guid>
+      <description>What is a State File?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:62798/posts/learning-terraform/terraform-state/feature.svg" />
+    </item>
+    
+    <item>
+      <title>Terraform Learning Projects</title>
+      <link>//localhost:62798/posts/learning-terraform/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/learning-terraform/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to Create an S3 Bucket in AWS Using Terraform</title>
+      <link>//localhost:62798/posts/learning-terraform/configure_s3_bucket_terraform/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:62798/posts/learning-terraform/configure_s3_bucket_terraform/</guid>
+      <description>Save AWS Access Keys for Terraform Admin Account # Create an AWS credentials file so that Terraform can get the programmatic credentials for the AWS administrator pushing configs via Terraform.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:62798/posts/learning-terraform/configure_s3_bucket_terraform/feature.svg" />
+    </item>
+    
+  </channel>
+</rss>
