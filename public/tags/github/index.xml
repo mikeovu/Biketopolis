@@ -10,12 +10,12 @@
     <atom:link href="//localhost:62798/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Made this Website Using Hugo</title>
-      <link>//localhost:62798/posts/how-i-made-this/</link>
+      <link>//localhost:62798/runzero-demo/how-i-made-this/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:62798/posts/how-i-made-this/</guid>
+      <guid>//localhost:62798/runzero-demo/how-i-made-this/</guid>
       <description>This is a high-level guide meant to describe how I created and deployed my static portfolio site.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:62798/posts/how-i-made-this/feature.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:62798/runzero-demo/how-i-made-this/feature.svg" />
     </item>
     
   </channel>

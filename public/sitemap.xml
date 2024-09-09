@@ -4,49 +4,6 @@
 
   <url>
     <loc>//localhost:62798/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/learning-terraform/terraform-state/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/learning-terraform/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/learning-terraform/configure_s3_bucket_terraform/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/networking-and-security-projects/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/networking-and-security-projects/outputting_firewall_rules_to_dashboard/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/networking-and-security-projects/configuring_anyconnect_azuread_saml/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -56,57 +13,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:62798/posts/how-i-made-this/</loc>
+    <loc>//localhost:62798/runzero-demo/how-i-made-this/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:62798/posts/networking-and-security-projects/how_to_set_up_socks5_aws/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/networking-and-security-projects/configure_saml_sso_jumpcloud/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/thousandeyes_learning/deploy_enterprise_agent/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/thousandeyes_learning/page-load/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/thousandeyes_learning/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/thousandeyes_learning/troubleshooting-labs/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/thousandeyes_learning/troubleshooting-labs/tshoot-scenario-a/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/thousandeyes_learning/troubleshooting-labs/tshoot-scenario-b/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/thousandeyes_learning/troubleshooting-labs/tshoot-scenario-c/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/posts/thousandeyes_learning/troubleshooting-labs/tshoot-scenario-d/</loc>
+    <loc>//localhost:62798/runzero-demo/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
