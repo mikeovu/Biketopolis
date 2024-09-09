@@ -19,10 +19,20 @@ layout: background
 
 2. The <a href = "https://console.runzero.com/inventory"> Inventory > Assets </a>  menu provides an easy to navigate through connected assets.
 
+<img src= "Inventory_Assets.png">
+
 3. The <a href = "https://console.runzero.com/inventory/services"> Inventory > Services </a> menu sorts assets by the Layer 4 ports being used.
+
+<img src = "inventory_services.png">
 
 4. The <a href ="https://console.runzero.com/reports"> Reports </a> menu provides an Layer 2 Switch Topology view.
 
+<img src = "topology.png">
+
 5. The <a href ="https://console.runzero.com/data-sources/integrate"> Integrate </a> menu provides a list of service providers that RunZero partners with for integration. For example, you can integrate directly with AWS to identify workloads in your VPCs.
 
+<img src = "integrate.png">
+
 6. RunZero even has an <a href = "https://app.swaggerhub.com/apis/runZero/runZero/"> interactive index</a> of API endpoints that can be used if data needs to be sent to a service provider app not available in the integrate menu.
+
+<img src = "api_index.png">

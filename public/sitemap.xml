@@ -3,22 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:62798/</loc>
+    <loc>//localhost:57267/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:62798/about/</loc>
+    <loc>//localhost:57267/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:62798/runzero-demo/how-i-made-this/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:62798/runzero-demo/</loc>
+    <loc>//localhost:57267/runzero-demo/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
