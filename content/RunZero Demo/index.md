@@ -12,10 +12,9 @@ layout: background
 
 ## How RunZero can help Biketopolis
 
-<img src = "Runzero_explorer.png">
-
-
 1. RunZero begins with a <a href = "https://help.runzero.com/docs/discovering-assets"> Discovery Scan </a>, which finds, identifies, and builds an inventory of all the connected devices and assets on your internal network. The runZero Explorer and scanner perform unauthenticated active scanning, which provides visibility into assets without the need to install an agent or managed profile.
+
+<img src = "Runzero_explorer.png">
 
 2. The <a href = "https://console.runzero.com/inventory"> Inventory > Assets </a>  menu provides an easy to navigate through connected assets.
 
@@ -36,3 +35,7 @@ layout: background
 6. RunZero even has an <a href = "https://app.swaggerhub.com/apis/runZero/runZero/"> interactive index</a> of API endpoints that can be used if data needs to be sent to a service provider app not available in the integrate menu.
 
 <img src = "api_index.png">
+
+7. It is also possible to authenticate to RunZero using SAML, using your provided IdP. In this example, I've configured SSO through Microsoft Azure.
+
+<img src = "azure_login.png">
