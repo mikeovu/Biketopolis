@@ -61,6 +61,8 @@ We are flexible with our leasing prices and even offer month to month options if
 
 - We would like a solution with an open API that would allow our developers to make use of the gathered telemetry to be ingested by other 3rd party proprietary or analytics platforms. 
 
+- We also need the ability to configure SAML authentication to the application.
+
 
 
 
